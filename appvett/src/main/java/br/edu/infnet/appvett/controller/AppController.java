@@ -14,6 +14,6 @@ public class AppController {
 	
 	@GetMapping(value = "/home")
 	public String telaHome() {
-		return "home";
+		return "index";
 	}
 }
