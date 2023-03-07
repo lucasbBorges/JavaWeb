@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+.input-container{
+	margin-top: 0.8rem;
+}
+
+[type=email],
+[type=password],
+[type=text]{
+	width: 100%;
+	margin-top: 0.3rem;
+}
+
